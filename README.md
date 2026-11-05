@@ -9,7 +9,7 @@ Static GitHub Pages site. No packages, player accounts, or credentials are neede
 3. Under **Settings → Pages**, select **Deploy from a branch**, branch **main**, folder **/(root)**, and Save.
 4. The expected URL is https://itsRynsRoblox.github.io/ryns-realm-configs/ . Wait for the Pages deployment to finish before sharing it.
 
-The macro opens the bundled local page when this folder is present; compiled distributions without it open the public URL. Remove the bundled folder from a release if you want players to always get the live catalog.
+The macro opens the public URL, filtered to the selected card mode, so players always see the latest published catalog. This folder does not need to be bundled with releases.
 
 ## Add a reviewed preset
 
